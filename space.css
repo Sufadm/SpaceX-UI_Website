@@ -1,0 +1,194 @@
+body{
+    background-color: rgb(3, 3, 7);
+}
+
+.logo{
+    height: 100px;
+    width: 20%;
+    background-color:black;
+    margin-left: 0px;
+    float: left;
+}
+.logo1 img{
+    margin-left: -1px;
+    width: 266px;
+    height: 258px;
+    margin-top: -78px;
+    position: fixed;
+}
+
+
+.nav{
+    height: 100px;
+    width: 80%;
+    float: left;
+    margin-left: 0px;
+}
+.nav a{
+    color: white;
+    margin-left: 49px;
+    text-decoration: none;
+    float: left;
+    margin-top: 10px;
+}
+
+.innernav{
+    height:20px ;
+    width: 100%;
+    background-color:transparent;
+    margin-top: 37px;
+    float: left;
+    position: fixed;
+
+}
+.firstdiv{
+    height: 653px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    background-image: url(/sapcex/images/1128962.jpg);
+background-size: cover;
+    background-repeat: no-repeat;
+}
+.inner1{
+width: 50%;
+height: 250px;
+background-color: transparent;
+color: white;
+padding: 2px;
+float: left;
+
+}
+.inner1 h3{
+    margin-left: -129px;
+    padding: 202px;
+    float: left;
+}
+.seconddiv{
+width: 50%;
+height: 1px;
+background-color: transparent;
+float: left;
+padding-right: 5px;
+}
+.seconddiv button:hover{
+    background-color: rgb(137, 151, 151);
+}
+
+.inner2{
+    margin-left: 12px;
+    margin-top: -16px;
+    color: white;
+    float: left;
+}
+
+button{
+margin-left: 88px;
+color: white;
+border: rgb(255, 255, 255) solid 3px;
+background-color: transparent;
+width: 150px;
+height: 50px;
+margin-left: 62px;
+float: left;
+}
+.nav a:hover{
+    background-color: rgb(137, 151, 151);
+}
+
+.seconddiv2{
+    background-image: url(/sapcex/images/pexels-spacex-23769\ \(2\).jpg);
+}
+.seconddiv2 .inner1 h3{
+    margin-left: -152px;
+    margin-top: -65px;
+}
+.seconddiv2 .inner2{
+    margin-left: 46px;
+    margin-top: -97px;
+}
+.seconddiv2 button{
+    margin-left: 0px;
+}
+.seconddiv2 button:hover{
+    background-color: rgb(102, 92, 92);
+}
+
+
+
+
+
+
+
+.thirddiv3{
+    background-image: url(/sapcex/images/google1.jpg);
+}
+.thirddiv3 .inner1 h3{
+    margin-left: -111px;
+    margin-top: -64px
+}
+.thirddiv3 .inner2{
+    margin-left: 86px;
+    margin-top: -98px;
+}
+.thirddiv3 button{
+    margin-left: 0px;
+}
+.thirddiv3 button:hover{
+    background-color: rgb(112, 115, 134);
+}
+
+
+
+
+.fourthdiv4{
+    background-image: url(/sapcex/images/t5.jpg);
+}
+.fourthdiv4 .inner2{
+    margin-left: 86px;
+    margin-top: -98px;
+}
+.fourthdiv4 button{
+    margin-left: 0px;
+}
+.fourthdiv4 button:hover{
+    background-color: rgb(0, 0, 0);
+}
+
+
+.fifth5{
+    background-image: url(/sapcex/images/spacex-Ptd-iTdrCJM-unsplash.jpg);
+}
+.fifth5 .inner2{
+    margin-left: 86px;
+    margin-top: -98px;
+}
+.fifth5 button{
+    margin-left: 0px;
+}
+.fifth5 button:hover{
+    background-color: rgb(0, 0, 0);
+}
+
+
+
+
+.last{
+    width: 100%;
+    height: 79px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    margin: 2px;
+}
+.innerlast a{
+    color:white;
+    margin-left: 57px;
+    text-decoration: none;
+    float: left;
+    margin-top: 28px;
+    margin-right: 14px;
+    padding-left: 14px;
+}
+.innerlast a:hover{
+    background-color: rgb(52, 145, 138);
+}
